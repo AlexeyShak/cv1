@@ -16,10 +16,10 @@ Engineer of heating, ventilation and air conditioning systems. Want to learn JS 
 ***
 
 ## My skills:
+* **NodeJS** *basic*
 * **HTML**   *basic*
 * **CSS**    *basic*
 * **JS**     *basic* 
-* **NodeJS** *basic*
 * **Git**    *basic*
 
 ***
