@@ -11,7 +11,7 @@
 
 ## About me:
 
-Engineer of heating, ventilation and air conditioning systems. Want to learn JS and become a web developer.
+Engineer of heating, ventilation and air conditioning systems. Want to learn JS and become a FE developer. 
 
 ***
 
