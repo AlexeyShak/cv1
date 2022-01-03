@@ -3,9 +3,9 @@
 ***
 
 ## Contact info:
- [**e-mail: *alexejshakinko@gmail.com***]
+ [**e-mail: *alexejshakinko@gmail.com***](e-mail:alexejshakinko@gmail.com)
 
-[**tel *+375 (29) 111 22 33***](tel:+375000000000)
+[**tel *+375 (29) 111 22 33***](tel:+375291112233)
 
 ***
 
