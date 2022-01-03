@@ -32,9 +32,9 @@ Engineer of heating, ventilation and air conditioning systems. Want to learn JS 
 ***
 
 ## Languages: 
-* *English* **upper intermediate** 
-* *Russian* **native**
-* *German* **intermediate**
+* *English* **(upper intermediate)** 
+* *Russian* **(native)**
+* *German* **(intermediate)**
 
 	
 
